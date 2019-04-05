@@ -17,7 +17,6 @@
 		9F65B1461EC1B6E00090B25F /* ApolloSQLite.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54DDB0BE1EA1523E0009DD99 /* ApolloSQLite.framework */; };
 		9F98C8381EC0844E00FFD919 /* CachePersistenceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F98C8351EC0844E00FFD919 /* CachePersistenceTests.swift */; };
 		9FDE0D9A2074C78D003C2223 /* ApolloTestSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FDE0D992074C78D003C2223 /* ApolloTestSupport.framework */; };
-		E9AD8D2C2256CBC8000ED647 /* SQLite.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54DDB0F21EA1573C0009DD99 /* SQLite.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -130,7 +129,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9AD8D2C2256CBC8000ED647 /* SQLite.framework in Frameworks */,
 				9F26433B2074BADA00A4519E /* Apollo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
