@@ -12,7 +12,6 @@ TARGETED_DEVICE_FAMILY[sdk=iphone*]  = 1,2
 // TV-specific default settings
 SDKROOT[sdk=appletv*] = appletvos
 TARGETED_DEVICE_FAMILY[sdk=appletv*] = 3
-TVOS_DEPLOYMENT_TARGET = 10.0
 
 // Watch-specific default settings
 SDKROOT[sdk=watch*] = watchos
